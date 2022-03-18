@@ -1,3 +1,5 @@
+Jean-Michel Pailherey - CheckPoint 2 React
+
 # REACT GAMES - CHECKPOINT 2
 ## Disclaimer
 
